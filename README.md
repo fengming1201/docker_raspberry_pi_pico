@@ -1,2 +1,2 @@
-# docker_raspberry_pi_pico
-raspberry_pi_pico compiler env
+# docker_EasyARM-i.MX280A_283A_287A
+嵌入式Linux开发板EasyARM-i.MX280A_283A_287A_V1.05
